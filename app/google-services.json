@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "973730365941",
+    "firebase_url": "https://fatecipinoitepdmchatcomf-132d0.firebaseio.com",
+    "project_id": "fatecipinoitepdmchatcomf-132d0",
+    "storage_bucket": "fatecipinoitepdmchatcomf-132d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973730365941:android:3f12622092239c033b20bc",
+        "android_client_info": {
+          "package_name": "mayara.com.fatec_ipi_noite_pdm_chat_com_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973730365941-pq15h1dnjsli3idh8jpt03q85uvi9dkc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mayara.com.fatec_ipi_noite_pdm_chat_com_firebase",
+            "certificate_hash": "0ae8d9f8beb4f82a9db6baca1f029773fbbc035e"
+          }
+        },
+        {
+          "client_id": "973730365941-fij4q37ffp8hhqi9dm2ism3icehploj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDnboW1Zw8elUE0pabfkKbQ5mjfEEUyoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973730365941-fij4q37ffp8hhqi9dm2ism3icehploj3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
